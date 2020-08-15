@@ -1,0 +1,111 @@
+{
+  "category": [
+    {
+      "name": "không có danh mục",
+      "image": "https://firebasestorage.googleapis.com/v0/b/reactjs-fcc3d.appspot.com/o/images%2Fblog_1.jpg?alt=media&token=93ae85bf-8a68-436a-9733-c58e765c8381",
+      "id": 1
+    },
+    {
+      "name": "Nam",
+      "image": "https://firebasestorage.googleapis.com/v0/b/reactjs-fcc3d.appspot.com/o/images%2Fmen.jpg?alt=media&token=ff1d8bc4-4424-40ba-b246-afd7721e7e33",
+      "id": 8
+    },
+    {
+      "name": "Nữ",
+      "image": "https://firebasestorage.googleapis.com/v0/b/reactjs-fcc3d.appspot.com/o/images%2Fwomen.jpg?alt=media&token=a4352322-82b4-4da8-b901-09b269e024e0",
+      "id": 2
+    },
+    {
+      "name": "Trẻ em",
+      "image": "https://firebasestorage.googleapis.com/v0/b/reactjs-fcc3d.appspot.com/o/images%2Fchildren.jpg?alt=media&token=3059bf7f-6955-4dd8-a4fe-2dcda7e7e4a2",
+      "id": 3
+    },
+    {
+      "name": "datlt",
+      "image": "https://firebasestorage.googleapis.com/v0/b/reactjs-fcc3d.appspot.com/o/images%2Fmen.jpg?alt=media&token=8f957aa2-8a01-43fc-b4f0-5c373e0c6e88",
+      "id": 9
+    }
+  ],
+  "product": [
+    {
+      "name": "Tank Top T-Shirt",
+      "categoryId": "2",
+      "image": "https://firebasestorage.googleapis.com/v0/b/reactjs-fcc3d.appspot.com/o/images%2Fcloth_1.jpg?alt=media&token=d745058d-b0a2-48ca-9fb3-aca7ab85029d",
+      "price": "20000000000",
+      "price_sale": "19999999999",
+      "soluong": "1",
+      "status": "còn hàng",
+      "date": "2020-08-12T17:11:00.211Z",
+      "content": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Pariatur, vitae, explicabo? Incidunt facere, natus soluta dolores iusto! Molestiae expedita veritatis nesciunt doloremque sint asperiores fuga voluptas, distinctio, aperiam, ratione dolore.\n\nEx numquam veritatis debitis minima quo error quam eos dolorum quidem perferendis. Quos repellat dignissimos minus, eveniet nam voluptatibus molestias omnis reiciendis perspiciatis illum hic magni iste, velit aperiam quis.",
+      "id": 1
+    },
+    {
+      "name": "phông mĩ nam",
+      "categoryId": "9",
+      "image": "https://firebasestorage.googleapis.com/v0/b/reactjs-fcc3d.appspot.com/o/images%2Fcloth_2.jpg?alt=media&token=52dabb47-61d9-4bc4-8c4e-b6d48a235162",
+      "price": "2000000",
+      "price_sale": "1999999",
+      "soluong": "1",
+      "status": "không còn",
+      "date": "2020-08-13T05:53:38.143Z",
+      "content": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Pariatur, vitae, explicabo? Incidunt facere, natus soluta dolores iusto! Molestiae expedita veritatis nesciunt doloremque sint asperiores fuga voluptas, distinctio, aperiam, ratione dolore.\n\nEx numquam veritatis debitis minima quo error quam eos dolorum quidem perferendis. Quos repellat dignissimos minus, eveniet nam voluptatibus molestias omnis reiciendis perspiciatis illum hic magni iste, velit aperiam quis.",
+      "id": 2
+    },
+    {
+      "name": "phông sao",
+      "categoryId": "3",
+      "image": "https://firebasestorage.googleapis.com/v0/b/reactjs-fcc3d.appspot.com/o/images%2Fcloth_3.jpg?alt=media&token=f2b16d1e-604e-486c-b7ad-7ab1e571206c",
+      "price": "20000000000",
+      "price_sale": "1999999999",
+      "soluong": "2",
+      "status": "không còn",
+      "date": "2020-08-12T17:11:32.369Z",
+      "content": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Pariatur, vitae, explicabo? Incidunt facere, natus soluta dolores iusto! Molestiae expedita veritatis nesciunt doloremque sint asperiores fuga voluptas, distinctio, aperiam, ratione dolore.\n\nEx numquam veritatis debitis minima quo error quam eos dolorum quidem perferendis. Quos repellat dignissimos minus, eveniet nam voluptatibus molestias omnis reiciendis perspiciatis illum hic magni iste, velit aperiam quis.",
+      "id": 3
+    },
+    {
+      "name": "so mi đẹp",
+      "categoryId": "2",
+      "image": "https://firebasestorage.googleapis.com/v0/b/reactjs-fcc3d.appspot.com/o/images%2Fperson_4.jpg?alt=media&token=9fc516b4-cdb6-404e-b90b-a5f3d8a4d473",
+      "price": "2000000",
+      "price_sale": "199999",
+      "soluong": "1",
+      "status": "không còn",
+      "date": "2020-08-12T17:30:35.074Z",
+      "content": "ghgfgjv jhghj ụ gjhg ghfh",
+      "id": 4
+    },
+    {
+      "name": "nguyen thi thuy",
+      "categoryId": "8",
+      "image": "https://firebasestorage.googleapis.com/v0/b/reactjs-fcc3d.appspot.com/o/images%2Fcloth_3.jpg?alt=media&token=aed7a659-c261-4f8d-8bf5-757b2af6567a",
+      "price": "2000000",
+      "price_sale": "223",
+      "soluong": "1",
+      "status": "còn hàng",
+      "date": "2020-08-13T05:52:44.486Z",
+      "content": "ebfnrht",
+      "id": 5
+    }
+  ],
+  "post": [
+    {
+      "title": "Biết tất tật chuyện trong thiên hạ ngày 12/8",
+      "id_category": "1",
+      "image": "https://firebasestorage.googleapis.com/v0/b/reactjs-fcc3d.appspot.com/o/images%2Fblog_1.jpg?alt=media&token=9f7443e8-452a-4e4d-90d4-b4fa2270f057",
+      "date": "2020-08-12T17:24:40.804Z",
+      "content": "Chiều 11/8, ông Nguyễn Đức Chung, Chủ tịch UBND TP Hà Nội, đã bị đình chỉ công tác 90 ngày \"để điều tra trách nhiệm có liên quan trong một số vụ án, theo quy định của pháp luật\". Trong thời gian này, ai sẽ thay ông Nguyễn Đức Chung chỉ đạo chống dịch Covid-19 tại Hà Nội? ",
+      "id": 4
+    }
+  ],
+  "category_post": [
+    {
+      "name": "xã hội",
+      "id": 1
+    },
+    {
+      "name": "cuộc sống",
+      "id": 2
+    }
+  ]
+}

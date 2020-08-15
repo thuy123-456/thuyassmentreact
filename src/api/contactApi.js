@@ -1,0 +1,31 @@
+import http from "./axiosHttp";
+
+const getAll = () => {
+    return http.get("/contact");
+};
+
+const get = id => {
+    return http.get(`/contact/${id}`);
+};
+
+const create = data => {
+    return http.post("/contact", data);
+};
+
+const update = (id, data) => {
+    return http.put(`/contact/${id}`, data);
+};
+
+const remove = id => {
+    console.log(id);
+    return http.delete(`/contact/${id}`);
+};
+
+
+export default {
+    getAll,
+    get,
+    create,
+    update,
+    remove,
+};
